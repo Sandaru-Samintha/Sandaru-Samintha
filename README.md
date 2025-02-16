@@ -41,7 +41,7 @@
 ---
 ### GitHub Stats & Languages
 
-<a href="https://stardev.io/developers/Sandaru-Samintha"><img alt="Check out Sandaru-Samintha's profile on stardev.io" src="https://stardev.io/developers/Sandaru-Samintha/badge/languages/global.svg" /></a>
+<a href="https://stardev.io/developers/Sandaru-Samintha"><img width="50" alt="Check out Sandaru-Samintha's profile on stardev.io" src="https://stardev.io/developers/Sandaru-Samintha/badge/languages/global.svg" /></a>
 
 
 
@@ -61,12 +61,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandaru-samintha-42007125a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satharaka-nilmantha-aa7b96297" height="30" width="40" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandaru-Samintha" height="30" width="40" /></a>
   <a href="https://fb.com/satharakanilmantha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satharakanilmantha" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sandaru-Samintha" height="30" width="40" />
   </a>
   <a href="https://instagram.com/satharaka_nilmantha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satharaka_nilmantha" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandaru-Samintha" height="30" width="40" />
   </a>
 </p>
 
