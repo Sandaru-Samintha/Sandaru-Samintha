@@ -101,3 +101,24 @@
  
     
 </p>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
+
+<!-- GitHub Star link -->
+<div align="center">
+  <a href="">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023 - Sandaru-Samintha">
+  </a>
+</div>
+
+
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=660&lines=Thanks+for+your+visit!&color=%2300BFFF,%2328C76F" 
+             alt="thanks for your visit">
+    </a>
+
+</div>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
