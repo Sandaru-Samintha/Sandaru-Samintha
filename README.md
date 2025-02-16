@@ -41,7 +41,7 @@
 ---
 ### GitHub Stats & Languages
 
-
+<a href="https://stardev.io/developers/Sandaru-Samintha"><img alt="Check out Sandaru-Samintha's profile on stardev.io" src="https://stardev.io/developers/Sandaru-Samintha/badge/languages/global.svg" /></a>
 
 
 
@@ -71,7 +71,6 @@
 </p>
 
 ---
-
 ### Languages and Tools:
 
 <p align="left">
