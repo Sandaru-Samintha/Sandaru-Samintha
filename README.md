@@ -63,10 +63,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sandaru-samintha-42007125a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandaru-Samintha" height="30" width="40" /></a>
-  <a href="https://fb.com/satharakanilmantha" target="blank">
+  <a href="https://fb.com/sandarusamintha" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sandaru-Samintha" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/satharaka_nilmantha" target="blank">
+  <a href="https://instagram.com/sandaru_sa.mintha" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandaru-Samintha" height="30" width="40" />
   </a>
 </p>
