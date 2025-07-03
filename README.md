@@ -44,31 +44,6 @@
 - 📫 How to reach me: **sandarusaminthagunarathna@gmail.com**
 
 ---
-<!--Languages and Tools Section--> 
-<h2 align="center"> 🚀 Tᴇᴄʜ Sᴛᴀᴄᴋ 🚀 </h2> 
-<table align="center">
-  <td width="50%" align="left">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-      <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-      <img width="500" align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-    </picture>
-    <br />
-  </td>
-  <td width="50%" align="left">
-    <h3 align="left">Current Learning</h3>
-      <ul  align="left">
-        <li>Learning Java EE and Hibernate to deepen my backend development expertise.</li>
-        <li>Exploring advanced Java concepts to enhance my programming skills.</li>
-        <li>Improving my proficiency in React.js and React Native for front-end and mobile app development.</li>
-      </br>
-        <li></li>
-      </ul>
-  </td>
-</table>
-  
-<br />
-<br />
 ### GitHub Stats & Languages
 
 <div align="center">
