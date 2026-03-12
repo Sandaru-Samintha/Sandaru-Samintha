@@ -37,11 +37,27 @@
 
 
 
+### 🔥 About Me
+- 🌱 Currently learning **Java Spring Boot, MERN Stack & System Design**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, React, Node.js, SQL, JWT**
+- 🛠️ Interested in **Backend Engineering & Full Stack Development**
+- ⚡ Fun fact: I enjoy building clean APIs and debugging tricky backend bugs 😎
+
 ---
 
-- 🌱 I’m currently learning **Java PHP, React Netive & MySQ**
-- 💬 Ask me about **Java PHP, React Netive & MySQ**
-- 📫 How to reach me: **sandarusaminthagunarathna@gmail.com**
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,nodejs,express,mysql,mongodb,git,github,vscode,tailwind" />
+</p>
+
+---
+
+### 🧩 Backend Skills
+- **Spring Boot**
+- Express JS
+- RESTful API Development
+- JWT Authentication & Authorization
+- MySQL & MongoDB
 
 ---
 ### GitHub Stats & Languages
